@@ -6,3 +6,7 @@
 body {
   padding-top: 56px;
 }
+/*used to round all buttons in the index file */
+.btn {
+  border-radius: 30px;
+}
